@@ -10,3 +10,6 @@ Client Portfolio
 
 
 It´s the link https://cliente-eric.vercel.app/
+
+
+![logo marca - reducida](https://github.com/DIGORACCOON4279/ClienteEric/assets/88150970/b0a01df3-b527-41f9-bd12-54c3f44a8cca)
